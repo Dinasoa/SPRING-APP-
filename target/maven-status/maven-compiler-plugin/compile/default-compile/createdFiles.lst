@@ -1,0 +1,7 @@
+com/example/newschoolapi/NewSchoolApiApplication.class
+com/example/newschoolapi/service/StudentService.class
+com/example/newschoolapi/model/Groups.class
+com/example/newschoolapi/repository/jpql/StudentRepositoryJPQL.class
+com/example/newschoolapi/model/Students.class
+com/example/newschoolapi/repository/StudentRepositoryJPA.class
+com/example/newschoolapi/controller/StudentController.class
